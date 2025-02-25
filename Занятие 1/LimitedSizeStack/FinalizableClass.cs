@@ -1,4 +1,4 @@
-﻿namespace LimitedSizeStack;
+﻿namespace LimitedSizeStack; 
 
 public class Counter
 {
